@@ -1,1 +1,1 @@
-https://github.com/mohammedkaif0/birthday.git
+https://mohammedkaif0.github.io/birthday/
