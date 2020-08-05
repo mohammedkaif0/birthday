@@ -48,8 +48,11 @@
   by Mohammed kaif</p
 </div>
 <script>
-var audio = new Audio('Happy_Birthday.mp3');
-audio.play();
+var sound = new Howl({
+  src: ['Happy_Birthday.mp3']
+});
+
+sound.play();
 </script>
     <script src="script.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
